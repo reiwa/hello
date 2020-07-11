@@ -1,5 +1,5 @@
 /src
-/.edtiroconfig
-/.eslitrc
+/.editorconfig
+/.eslintrc
 /.prettierrc
 /tsconfig.json

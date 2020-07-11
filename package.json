@@ -1,6 +1,6 @@
 {
   "name": "@reiwa/hello",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "license": "MIT",
   "repository": "https://github.com/reiwa/hello.git",
@@ -31,5 +31,6 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "dependencies": {}
 }
